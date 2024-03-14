@@ -1,4 +1,4 @@
-![image](https://github.com/RohanIngale27/erp-system/assets/163182384/4a555c4c-410a-4a9b-8cf3-3636798ec1f5)**ERP System with React**
+**ERP System with React**
 
 **Overview**
 
@@ -45,12 +45,21 @@ Open your web browser and go to **`http://localhost:3000`** to access the websit
 
 **Dashboard Page:**
 
+![image](https://github.com/RohanIngale27/erp-system/assets/163182384/3e31db87-76d1-485e-b2a3-fc848d1c0cc9)
 
 **Product Management Page:**
 
+![image](https://github.com/RohanIngale27/erp-system/assets/163182384/e7d7f3e6-c356-40bd-aa49-45454aa5abb9)
+
+
 **Order Management Page:**
 
+![image](https://github.com/RohanIngale27/erp-system/assets/163182384/43e57180-66b3-4e39-8fbb-218f13fe6c0c)
+
+
 **Calendar View Page:**
+
+![image](https://github.com/RohanIngale27/erp-system/assets/163182384/f2d85a5c-e934-478f-9c5b-52eb29ae81c1)
 
 
 **Additional Notes:**
